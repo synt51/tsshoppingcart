@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ac5f734-fb8e-4544-8f44-8c542274996f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/images/2048px-Octicons-mark-github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/images/free-twitch-icon-2178-thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/images/youtube black circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/stylesheets/article-figure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/stylesheets/article-share.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/stylesheets/article-text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/stylesheets/article.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/stylesheets/debug.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/stylesheets/myButton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/stylesheets/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnotherHTML/stylesheets/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/Nintendo Clone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/images/ESRB_Everyone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/images/GiftGuideBG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/images/hero.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/images/screenshot01.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/images/screenshot02.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/images/screenshot03.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/images/screenshot04.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/images/screenshot05.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/images/screenshot06.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/stylesheets/figure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Nintendo Clone/stylesheets/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/.idea/rickandmorty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/BigCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/BurgerMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/Gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/Gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/Pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/SearchBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/images/icon-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/images/magnifying-glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/images/morty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/images/rick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/pages/MainPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/pages/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/pages/RandomChar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/pages/SingleChar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmorty/src/services/apiService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmortyapp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmortyapp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmortyapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmortyapp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmortyapp/.idea/rickandmortyapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmortyapp/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmortyapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmortyapp/src/components/Characters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmortyapp/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RickAndMortyApp/rickandmortyapp/src/components/Pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/anothertsshoppinglist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/components/Button.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/components/Checkbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/components/IconButton.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/components/Spacer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/components/TextButton.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/contexts/task-store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/hooks/use-local-storage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/hooks/use-task-store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/icons/DeleteIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/screens/FocusScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/screens/ListScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/src/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anothertsshoppinglist/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/.idea/myfirstapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myfirstapp/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/.idea/shoppinglist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/components/ItemCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/components/Items.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/controller/HomeController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/pages/ChangeItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoppinglist/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FeaturesToAdd.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ItemCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Items.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Lists.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/homeController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/listController.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/ShoppingItems.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/ShoppingLists.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ChangeItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ListPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsshoppinglist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/AnimalList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/AnimalList/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/AnimalList/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/AnimalList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/AnimalList/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/AnimalList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/AnimalList/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Ordering system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Ordering system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Ordering system/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Ordering system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Ordering system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/src/main/java/de/example/resttest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/src/main/java/de/example/resttest/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/src/main/java/de/example/resttest/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/target/classes/de/example/resttest/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/target/classes/de/example/resttest/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/target/classes/de/example/resttest/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/target/resttest-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Springtest/target/resttest-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/src/main/java/StreamTaskMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/src/main/students.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/target/classes/StreamTaskMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Streamtask/target/classes/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Studentenaufgabe/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Studentenaufgabe/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Studentenaufgabe/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Studentenaufgabe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Studentenaufgabe/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Studentenaufgabe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Studentenaufgabe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Studentenaufgabe/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/main/java/com/example/webclient/WebclientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/main/java/com/example/webclient/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/main/java/com/example/webclient/controller/RickAndMortyCharacterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/main/java/com/example/webclient/model/RickAndMortyCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/main/java/com/example/webclient/model/RickAndMortyLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/main/java/com/example/webclient/model/RickAndMortyResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/main/java/com/example/webclient/service/IRickAndMortyCharacterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/main/java/com/example/webclient/service/RickAndMortyCharacterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/main/java/com/example/webclient/service/RickAndMortyLocationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/test/java/com/example/webclient/WebclientApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Passwortvalidierung/src/main/java/Passwortvalidierung.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Passwortvalidierung/src/test/java/PasswortvalidierungTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/src/main/java/Student.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="SCSS File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="23Jf8Q8UQEC3Dpa86LFlnHbbwxK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ac5f734-fb8e-4544-8f44-8c542274996f" name="Changes" comment="" />
+      <created>1641456973431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641456973431</updated>
+      <workItem from="1641456977939" duration="10897000" />
+      <workItem from="1641474197925" duration="3001000" />
+      <workItem from="1641478875648" duration="8734000" />
+      <workItem from="1641544069986" duration="8665000" />
+      <workItem from="1641553598921" duration="7166000" />
+      <workItem from="1641562292285" duration="3046000" />
+      <workItem from="1641565675894" duration="4422000" />
+      <workItem from="1641570938619" duration="2392000" />
+      <workItem from="1641583394492" duration="739000" />
+      <workItem from="1641584420112" duration="1807000" />
+      <workItem from="1641594531816" duration="2081000" />
+      <workItem from="1641597012368" duration="257000" />
+      <workItem from="1641758175327" duration="6379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
