@@ -60,7 +60,7 @@ export default function Home(props: { controller: IHomeController }) {
 
     return (
         <div className={"App-header"}>
-            <h1>Shopping List</h1>
+            <h1>Shopping List32</h1>
             <div className={"AddItemBox"}>
                 <form onSubmit={addItem}>
                     <TextField className={"AddItemQuantity"} label={"QTY"}  type={"number"} inputProps={{ style: { textAlign: 'center' }}}
