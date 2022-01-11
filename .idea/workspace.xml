@@ -222,8 +222,13 @@
       <change afterPath="$PROJECT_DIR$/../../Zweite Woche/Webclient/src/test/java/com/example/webclient/WebclientApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Passwortvalidierung/src/main/java/Passwortvalidierung.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Passwortvalidierung/src/test/java/PasswortvalidierungTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FeaturesToAdd.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/FeaturesToAdd.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/tsconfig.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/tsconfig.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/FeaturesToAdd.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/FeaturesToAdd.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FeaturesToAdd.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Zweite Woche/Student/.idea/jarRepositories.xml" beforeDir="false" />
@@ -288,11 +293,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/frontend/src" />
       <recent name="$PROJECT_DIR$/frontend" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="Spring Boot.BackendApplication">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -349,7 +356,7 @@
       <workItem from="1641821255140" duration="96000" />
       <workItem from="1641906595397" duration="5731000" />
       <workItem from="1641912848548" duration="372000" />
-      <workItem from="1641913389144" duration="1777000" />
+      <workItem from="1641913389144" duration="4511000" />
     </task>
     <servers />
   </component>
